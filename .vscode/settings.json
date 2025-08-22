@@ -1,7 +1,5 @@
 {
     "files.associations": {
-        "*.tcc": "c",
-        "fstream": "c",
-        "spinlock.h": "c"
+        "user.h": "c"
     }
 }
